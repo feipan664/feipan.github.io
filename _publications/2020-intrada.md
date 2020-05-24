@@ -1,10 +1,10 @@
 ---
 title: "Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision"
 collection: publications
-permalink: /publication/2020-intrada
+permalink: /publications/2020-intrada
 date: 2020-06-16
 venue: "IEEE Conference on Computer Vision and Pattern Recognition 2020 (CVPR 2020)"
-citation: "<br> <b>Fei Pan</b>, Inkyu Shin, Francois Rameau, Seokju Lee, In So Kweon."
+citation: "<b>Fei Pan</b>, Inkyu Shin, Francois Rameau, Seokju Lee, In So Kweon. <i>IEEE Conference on Computer Vision and Pattern Recognition 2020</i>. <b>CVPR 2020</b>."
 ---
 
 [[PDF]](https://arxiv.org/pdf/2004.07703.pdf)
