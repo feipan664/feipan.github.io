@@ -13,8 +13,8 @@ author_profile: true
 
 <b>[Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images](http://feipan664.github.io/publications/2019-vpe)</b>  <br> Junsik Kim, Tae-Hyun Oh, Seokju Lee, <b>Fei Pan</b>, In So Kweon.
 <i>IEEE Conference on Computer Vision and Pattern Recognition 2019</i>. <b>CVPR 2019</b>.
- 
-[[Paper]](https://arxiv.org/pdf/1904.08482.pdf)
+  
+[[Paper]](https://arxiv.org/pdf/1904.08482.pdf) [[Code]](https://github.com/mibastro/VPE)
 
 
 <b>[Driver Drowsiness Detection System Based on Feature Representation Learning Using Various Deep Networks](http://feipan664.github.io/publications/2016-drowsiness)</b>  <br> Sanghyuk Park, <b>Fei Pan</b>, Sunghun Kang, Chang D. Yoo.
