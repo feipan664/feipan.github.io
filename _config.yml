@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Fei Pan"
-description              : &description "PhD student in Robotics and Computer Vision Lab, KAIST"
+description              : &description "PhD student in the School of Electrical Engineering, KAIST"
 url                      : https://feipan664.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feipan664/feipan664.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fei Pan"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Robotics and Computer Vision Lab, KAIST"
+  bio              : "PhD student in the School of Electrical Engineering, KAIST"
   location         : "Daejeon, Korea"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
