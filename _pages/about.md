@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
+# Welcome!!
 
 Welcome to the personal site of Fei Pan. 
 
