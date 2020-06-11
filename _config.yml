@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Page"
+title                    : "Fei Pan"
 title_separator          : "-"
 name                     : &name "Fei Pan"
-description              : &description "PhD student in the School of Electrical Engineering, KAIST"
+description              : &description "PhD student at KAIST"
 url                      : https://feipan664.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feipan664/feipan664.github.io"
