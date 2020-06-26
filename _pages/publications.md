@@ -20,7 +20,7 @@ author_profile: true
 
 
 <b>[Driver Drowsiness Detection System Based on Feature Representation Learning Using Various Deep Networks](http://feipan664.github.io/publications/2016-drowsiness)</b>  <br> Sanghyuk Park, <b>Fei Pan</b>, Sunghun Kang, Chang D. Yoo.
-<i>Asian Conference on Computer Vision 2016</i>. <b>ACCV2016</b>.
+<i>Asian Conference on Computer Vision 2016</i>. <b>ACCV 2016</b>.
  
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_12)
 
